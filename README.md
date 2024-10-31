@@ -1,7 +1,8 @@
 <img src="https://caelum-online-public.s3.amazonaws.com/oracle-one-fase2/one-br-kit-boas-vindas/ONE+desktop+2.png" alt="Logo do Projeto" width="100%" height="450">
 
 # 💰  Conversor de Moedas
-## Olá, seja bem vindo ao meu projeto do Challenge Conversor De Moedas da formação Java e Orientação a Objetos! 
+## Olá, seja bem vindo ao meu projeto do Challenge Conversor De Moedas da formação Java e Orientação a Objetos!
+
 ### Este projeto é um **desafio do programa Oracle Next Education** que visa desenvolver um **conversor de moedas** utilizando **Java**. O objetivo é criar uma aplicação simples que permita aos usuários **converter valores entre diferentes moedas**, utilizando a **ExchangeRateAPI** para obter as taxas de câmbio mais recentes.
 
 ---
