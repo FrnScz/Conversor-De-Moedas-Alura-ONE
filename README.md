@@ -88,6 +88,7 @@ Após a execução, siga as instruções exibidas no console para usar o convers
 
 <div align="center">
 
-### © Fernando Scorza 10/2024
+### © Fernando Scorza 
+### 10/2024
 
 </div>
