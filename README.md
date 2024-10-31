@@ -85,7 +85,8 @@ Após a execução, siga as instruções exibidas no console para usar o convers
 - Certifique-se de que o JDK está corretamente configurado no IntelliJ para evitar problemas de compilação.
 ---
 ### Projeto desenvolvido por: © Fernando Scorza 
-### 10/2024
+
 
 ---
 <img src="https://caelum-online-public.s3.amazonaws.com/oracle-one-fase2/one-br-kit-boas-vindas/ONE+desktop+2.png" alt="Logo do Projeto" width="100%" height="450">
+### 10/2024
