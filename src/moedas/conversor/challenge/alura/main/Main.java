@@ -15,7 +15,7 @@ public class Main {
     
     /**
      * O metodo main é o ponto de entrada do programa.</br>
-     * Uma instância da classe MenuConversor e ServicoConversao são criadas.
+     * Uma instância das classes MenuConversor e ServicoConversao são criadas.
      * Para começar a conversão uma variável booleana foi criada para iniciar o processo de conversão de moedas. </br>
      * Toda a estrutura, design e lógica foi mantida dentro das outras classes, para que o metodo main esteja bem organizado, fácil de ler e entender!
      */
