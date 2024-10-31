@@ -54,6 +54,7 @@ Digite a opção que deseja executar...
 - **Java**: Linguagem de programação utilizada para desenvolver a aplicação.
 - **Gson**: Biblioteca utilizada para manipulação de JSON.
 - **API ExchangeRateAPI**: API utilizada para obter as taxas de câmbio.
+- **Postman**: Ferramenta utilizada para desenvolvimento e teste de APIs.
 ---
 
 ## 🚀 Como Executar o Projeto no IntelliJ
