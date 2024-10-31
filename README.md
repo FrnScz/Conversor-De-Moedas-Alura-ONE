@@ -89,4 +89,9 @@ Após a execução, siga as instruções exibidas no console para usar o convers
 
 ---
 <img src="https://caelum-online-public.s3.amazonaws.com/oracle-one-fase2/one-br-kit-boas-vindas/ONE+desktop+2.png" alt="Logo do Projeto" width="100%" height="450">
+
+<div align="center">
+
 ### 10/2024
+
+</div>
