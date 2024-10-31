@@ -33,7 +33,7 @@ public class MenuConversor {
     
     /**
      * Exibe o menu de opções e executa a conversão de moedas baseada na escolha do usuário.
-     * As opções permitem escolher as moedas base e de destino. O método consulta e converte
+     * As opções permitem escolher as moedas base e de destino. O metodo consulta e converte
      * o valor entre as moedas escolhidas e exibe o resultado ao usuário.
      *
      * @return True se o menu deve continuar executando. False se o usuário escolher a opção "Sair".
